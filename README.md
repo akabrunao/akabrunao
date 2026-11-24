@@ -13,6 +13,13 @@
 - Data quality and governance as code (YAML rules and metadata deployed via CI/CD)
 - Day to day in English with a UK-based team
 
+## Currently
+
+- 🔭 Working on near-real-time pipelines that turn B2B interactions into CRM sales signals and leads
+- 🌱 Studying Databricks and the lakehouse world, aiming at senior data engineering
+- 🤖 Exploring AI agents and the Model Context Protocol (MCP): my team won our client's internal AI hackathon with an MCP-based troubleshooting agent for data pipelines
+- 💬 Open to international, English-speaking opportunities (hybrid in Campinas area or remote)
+
 ## Tech
 
 <div>
@@ -28,6 +35,10 @@
 **Learning:** Databricks (Fundamentals accreditation, Nov 2026)
 
 ## Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 - AWS Certified Solutions Architect – Associate (2026)
 - AWS Certified Cloud Practitioner (2026)
@@ -49,5 +60,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akabrunao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabrunao&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-![Snake animation](https://github.com/akabrunao/akabrunao/blob/output/github-contribution-grid-snake.svg)
